@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>deities</name>
+		<update version="0.0.1">
+			<file name="deities.xml" url="https://raw.githubusercontent.com/Cubes-d/zanimwzejdzieslonce/master/nox/deities.xml" />
+		</update>
+	</info>
+	<element name="Inaros" type="Deity" source="Nox" id="ID_WOTC_NOX_DEITY_INAROS">
+		<description>
+			<p>The god of fire.</p>
+		</description>
+		<setters>
+			<set name="setting">before the sun rises</set>
+			<set name="alignment">-</set>
+			<set name="domains">Fire</set>
+			<set name="symbol">-</set>
+		</setters>
+	</element>
+	<element name="Yarad" type="Deity" source="Nox" id="ID_WOTC_NOX_DEITY_YARAD">
+		<description>
+			<p>The god of storms, a dragon deity, guardian of the Realm. He is the main god of the pantheon.</p>
+		</description>
+		<setters>
+			<set name="setting">before the sun rises</set>
+			<set name="alignment">-</set>
+			<set name="domains">Storm</set>
+			<set name="symbol">-</set>
+		</setters>
+	</element>
+	<element name="Raja" type="Deity" source="Nox" id="ID_WOTC_NOX_DEITY_RAJA">
+		<description>
+			<p>The goddess of life.</p>
+		</description>
+		<setters>
+			<set name="setting">before the sun rises</set>
+			<set name="alignment">-</set>
+			<set name="domains">Life</set>
+			<set name="symbol">-</set>
+		</setters>
+	</element>
+	<element name="Adalia" type="Deity" source="Nox" id="ID_WOTC_NOX_DEITY_ADALIA">
+		<description>
+			<p>The goddess of death (underworld).</p>
+		</description>
+		<setters>
+			<set name="setting">before the sun rises</set>
+			<set name="alignment">-</set>
+			<set name="domains">Death</set>
+			<set name="symbol">-</set>
+		</setters>
+	</element>
+	<element name="Calipso" type="Deity" source="Nox" id="ID_WOTC_NOX_DEITY_CALIPSO">
+		<description>
+			<p>The goddess of seas.</p>
+		</description>
+		<setters>
+			<set name="setting">before the sun rises</set>
+			<set name="alignment">-</set>
+			<set name="domains">Water</set>
+			<set name="symbol">-</set>
+		</setters>
+	</element>
+	<element name="Solan" type="Deity" source="Nox" id="ID_WOTC_NOX_DEITY_SOLAN">
+		<description>
+			<p>The god of light.</p>
+		</description>
+		<setters>
+			<set name="setting">before the sun rises</set>
+			<set name="alignment">-</set>
+			<set name="domains">light</set>
+			<set name="symbol">-</set>
+		</setters>
+	</element>
+	<element name="Doran" type="Deity" source="Nox" id="ID_WOTC_NOX_DEITY_DORAN">
+		<description>
+			<p>The god of earth.</p>
+		</description>
+		<setters>
+			<set name="setting">before the sun rises</set>
+			<set name="alignment">-</set>
+			<set name="domains">earth</set>
+			<set name="symbol">-</set>
+		</setters>
+	</element>
+</elements>	

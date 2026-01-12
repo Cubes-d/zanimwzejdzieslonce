@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<name>deities</name>
-		<update version="0.0.1">
+		<update version="0.0.2">
 			<file name="deities.xml" url="https://raw.githubusercontent.com/Cubes-d/zanimwzejdzieslonce/master/nox/deities.xml" />
 		</update>
 	</info>
@@ -80,6 +80,138 @@
 			<set name="setting">before the sun rises</set>
 			<set name="alignment">-</set>
 			<set name="domains">earth</set>
+			<set name="symbol">-</set>
+		</setters>
+	</element>
+	<element name="Ivor" type="Deity" source="Nox" id="ID_WOTC_NOX_DEITY_IVOR">
+		<description>
+			<p>The divine dragon king.</p>
+		</description>
+		<setters>
+			<set name="setting">before the sun rises</set>
+			<set name="alignment">-</set>
+			<set name="domains">dragons</set>
+			<set name="symbol">-</set>
+		</setters>
+	</element>
+	<element name="Destiny of Endless" type="Deity" source="Nox" id="ID_WOTC_NOX_DEITY_DESTIOE">
+		<description>
+			<p>One of the infinite - the eternal gods of everything created in human minds, seven eternal and infinite in one domain of consciousness.</p>
+		</description>
+		<setters>
+			<set name="setting">before the sun rises</set>
+			<set name="alignment">-</set>
+			<set name="domains">Destiny</set>
+			<set name="symbol">-</set>
+		</setters>
+	</element>
+	<element name="Death of Endless" type="Deity" source="Nox" id="ID_WOTC_NOX_DEITY_DEATHOE">
+		<description>
+			<p>One of the infinite - the eternal gods of everything created in human minds, seven eternal and infinite in one domain of consciousness.</p>
+		</description>
+		<setters>
+			<set name="setting">before the sun rises</set>
+			<set name="alignment">-</set>
+			<set name="domains">Death</set>
+			<set name="symbol">-</set>
+		</setters>
+	</element>
+	<element name="Dream of Endless" type="Deity" source="Nox" id="ID_WOTC_NOX_DEITY_DREAMOE">
+		<description>
+			<p>One of the infinite - the eternal gods of everything created in human minds, seven eternal and infinite in one domain of consciousness.</p>
+		</description>
+		<setters>
+			<set name="setting">before the sun rises</set>
+			<set name="alignment">-</set>
+			<set name="domains">Dream</set>
+			<set name="symbol">-</set>
+		</setters>
+	</element>
+	<element name="Destruction of Endless" type="Deity" source="Nox" id="ID_WOTC_NOX_DEITY_DESTROE">
+		<description>
+			<p>One of the infinite - the eternal gods of everything created in human minds, seven eternal and infinite in one domain of consciousness.</p>
+		</description>
+		<setters>
+			<set name="setting">before the sun rises</set>
+			<set name="alignment">-</set>
+			<set name="domains">Destruction</set>
+			<set name="symbol">-</set>
+		</setters>
+	</element>
+	<element name="Desire of Endless" type="Deity" source="Nox" id="ID_WOTC_NOX_DEITY_DESIROE">
+		<description>
+			<p>One of the infinite - the eternal gods of everything created in human minds, seven eternal and infinite in one domain of consciousness.</p>
+		</description>
+		<setters>
+			<set name="setting">before the sun rises</set>
+			<set name="alignment">-</set>
+			<set name="domains">Desire</set>
+			<set name="symbol">-</set>
+		</setters>
+	</element>
+	<element name="Despair of Endless" type="Deity" source="Nox" id="ID_WOTC_NOX_DEITY_DESPAOE">
+		<description>
+			<p>One of the infinite - the eternal gods of everything created in human minds, seven eternal and infinite in one domain of consciousness.</p>
+		</description>
+		<setters>
+			<set name="setting">before the sun rises</set>
+			<set name="alignment">-</set>
+			<set name="domains">Despair</set>
+			<set name="symbol">-</set>
+		</setters>
+	</element>
+	<element name="Delirium of Endless" type="Deity" source="Nox" id="ID_WOTC_NOX_DEITY_DELIROE">
+		<description>
+			<p>One of the infinite - the eternal gods of everything created in human minds, seven eternal and infinite in one domain of consciousness.</p>
+		</description>
+		<setters>
+			<set name="setting">before the sun rises</set>
+			<set name="alignment">-</set>
+			<set name="domains">Delirium</set>
+			<set name="symbol">-</set>
+		</setters>
+	</element>
+	<element name="Eternal Being of Night" type="Deity" source="Nox" id="ID_WOTC_NOX_DEITY_EBONIG">
+		<description>
+			<p>Above the infinite there are Eternal Beings.</p>
+		</description>
+		<setters>
+			<set name="setting">before the sun rises</set>
+			<set name="alignment">-</set>
+			<set name="domains">Night</set>
+			<set name="symbol">-</set>
+		</setters>
+	</element>
+	<element name="Eternal Being of Time" type="Deity" source="Nox" id="ID_WOTC_NOX_DEITY_EBOTIM">
+		<description>
+			<p>Above the infinite there are Eternal Beings.</p>
+		</description>
+		<setters>
+			<set name="setting">before the sun rises</set>
+			<set name="alignment">-</set>
+			<set name="domains">Time</set>
+			<set name="symbol">-</set>
+		</setters>
+	</element>
+	<element name="Eternal Being of Light" type="Deity" source="Nox" id="ID_WOTC_NOX_DEITY_EBOLIG">
+		<description>
+			<p>Above the infinite there are Eternal Beings.</p>
+		</description>
+		<setters>
+			<set name="setting">before the sun rises</set>
+			<set name="alignment">-</set>
+			<set name="domains">Light</set>
+			<set name="symbol">-</set>
+		</setters>
+	</element>
+	<element name="Eternal Being of Force" type="Deity" source="Nox" id="ID_WOTC_NOX_DEITY_EBOFOR">
+		<description>
+			<p>Above the infinite there are Eternal Beings.</p>
+		</description>
+		<setters>
+			<set name="setting">before the sun rises</set>
+			<set name="alignment">-</set>
+			<set name="domains">Force</set>
 			<set name="symbol">-</set>
 		</setters>
 	</element>

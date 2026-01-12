@@ -2,8 +2,8 @@
 <elements>
 	<info>
 		<name>deities</name>
-		<update version="0.0.4">
-			<file name="deities.xml" url="https://raw.githubusercontent.com/Cubes-d/zanimwzejdzieslonce/master/nox/deities.xml" />
+		<update version="0.0.5">
+			<file name="deities.xml" url="https://raw.githubusercontent.com/Cubes-d/zanimwzejdzieslonce/master/deities.xml" />
 		</update>
 	</info>
 	<element name="Inaros" type="Deity" source="Nox" id="ID_WOTC_NOX_DEITY_INAROS">

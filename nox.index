@@ -2,11 +2,12 @@
 <index>
 	<info>
 		<name>ZWzS</name>
-		<update version="0.0.4">
+		<update version="0.0.5">
 			<file name="nox.index" url="https://raw.githubusercontent.com/Cubes-d/zanimwzejdzieslonce/master/nox.index" />
 		</update>
 	</info>
 	<files>
 		<file name="deities.xml" url="https://raw.githubusercontent.com/Cubes-d/zanimwzejdzieslonce/master/deities.xml"/>
+		<file name="Feat.xml" url="https://raw.githubusercontent.com/Cubes-d/zanimwzejdzieslonce/master/Feat.xml"/>
 	</files>
 </index>
